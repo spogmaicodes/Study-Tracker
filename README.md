@@ -1,3 +1,5 @@
+Feel free to use, modify, and learn from this project. If you use a significant portion of the code, a credit or link back to this repository would be greatly appreciated.
+
 # Study-Tracker
 A command-line study tracking application built with Python and MySQL. This project helps students record their study sessions, track the time spent on different subjects, and view detailed reports to monitor their progress over time.
 
@@ -25,7 +27,7 @@ Each study session includes:
 * Date
 * Day
 * Subject
-*Topic Studied
+* Topic Studied
 * Study Time
 
 The data is stored in a MySQL database, making it easy to retrieve and analyze study habits over time.
